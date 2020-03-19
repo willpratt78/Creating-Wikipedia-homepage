@@ -6,12 +6,6 @@ h3 {
     font-weight: bold;
 }
 
-.positioning {
-    padding-top: 400px;
-    float: left;
-    clear: left;
-}
-
 .sidebar {
     width: 10%;
     float: left;
@@ -26,4 +20,11 @@ h3 {
 .float-right {
     float: right;
     clear: right;
+}
+
+.box-model {
+    width: auto;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
 }
