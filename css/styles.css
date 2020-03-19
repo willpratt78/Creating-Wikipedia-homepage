@@ -22,9 +22,3 @@ h3 {
     clear: right;
 }
 
-.box-model {
-    width: auto;
-    border: 15px;
-    padding: 50px;
-    margin: 20px;
-}
