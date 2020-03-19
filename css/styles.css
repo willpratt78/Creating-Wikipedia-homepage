@@ -1,3 +1,11 @@
 * {
     border: solid red;
 }
+
+h3 {
+    font-weight: bold;
+}
+
+.light-blue {
+    background-color: orange;
+}
