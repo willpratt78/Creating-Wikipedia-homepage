@@ -17,3 +17,13 @@ h3 {
     float: left;
     background-color: grey;
 }
+
+.float-left {
+    float: left;
+    clear: left;
+}
+
+.float-right {
+    float: right;
+    clear: right;
+}
